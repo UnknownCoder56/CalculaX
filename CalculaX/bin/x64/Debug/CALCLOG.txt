@@ -1,0 +1,48 @@
+
+
+
+Record Session Started on - 10-09-2020
+Record Session Started in - 13:02:48.
+Recorded functions :-
+
+1) 12 + 10 = 22
+2) 12 / 10 = 1.2
+3) 12 \ 10 = 1
+4) All Text Cleared.
+
+Total actions in this session = 4
+Session Ended on - 10-09-2020
+Session Ended in - 13:03:01
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Record Session Started on - 10-09-2020
+Record Session Started in - 13:05:10.
+Recorded functions :-
+
+1) 100 + 100 = 200
+
+Total actions in this session = 1
+Session Ended on - 10-09-2020
+Session Ended in - 13:05:18
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Record Session Started on - 10-09-2020
+Record Session Started in - 13:16:01.
+Recorded functions :-
+
+1) 12 + 11 = 23
+2) 12 / 11 = 1.09090909090909
+3) All Text Cleared.
+
+Total actions in this session = 3
+Session Ended on - 10-09-2020
+Session Ended in - 13:16:10
+
+
+----------------------------------------------------------------------------------------------------
